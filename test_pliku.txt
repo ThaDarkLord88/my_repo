@@ -1,0 +1,3 @@
+https://windows.github.com/  --github for windows
+
+https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx   --visual studio community edition 
